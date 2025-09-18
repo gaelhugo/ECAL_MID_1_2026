@@ -108,7 +108,7 @@ npm create vite@latest
 4. [Son](Chapitres/04.Sound/README.md)
 5. [Mediapipe](Chapitres/05.Media_pipe/README.md)
 
-# Concept clef du semestre
+## Concept clef du semestre
 
 FUI – _Fictional User Interface_ –
 - Une interface utilisateur qui n'existe pas dans le monde réel, mais qui est créée pour les besoins d'un projet, d'une fiction ou d'une expérience.
