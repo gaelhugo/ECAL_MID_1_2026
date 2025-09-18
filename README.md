@@ -1,10 +1,11 @@
-# ECAL_MID_2025 | CREATIVE CODING I
+# ECAL_MID_2026 | CREATIVE CODING I
 
-# DRAWING WITH CODE & CODE IS LETTER AND NUMBERS
+# DRAWING WITH CODE
 
-> _En prenant la lettre et le chiffre comme prétexte d’unité visuelle, nous allons explorer les fondamentaux de la programmation visuelle. Nous apprendrons à décomposer les éléments graphiques en leurs composantes de base (points, lignes, formes) et à les recomposer de manière créative suivant les thématiques abordées en cours. (animation, interaction)
+> _Introduction au Creative Coding avec JavaScript_
 > Grâce à des exercices pratiques, nous découvrirons comment utiliser le code pour créer des animations, des interactions et des effets visuels.
-> Nous aborderons des concepts clés tels que les variables, les boucles, les fonctions et les objets, tout en les appliquant à des exercices hebdomadaires individuels dont le fil conducteur sera l’entité graphique de la lettre._
+> Nous aborderons des concepts clés tels que les variables, les boucles, les fonctions et les objets, tout en les appliquant à des exercices réguliers.
+> L'objectif est d'apprendre à penser de manière algorithmique et à utiliser le code comme un outil créatif.
 
 # Introduction
 
@@ -106,3 +107,10 @@ npm create vite@latest
 3. [Analyse de pixels et Raster](Chapitres/03.Pixels_and_raster/README.md)
 4. [Son](Chapitres/04.Sound/README.md)
 5. [Mediapipe](Chapitres/05.Media_pipe/README.md)
+
+# Concept clef du semestre
+
+FUI – _Fictional User Interface_ –
+- Une interface utilisateur qui n'existe pas dans le monde réel, mais qui est créée pour les besoins d'un projet ou d'une expérience.
+
+![](assets/interface.gif)
