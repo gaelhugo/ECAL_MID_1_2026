@@ -111,6 +111,6 @@ npm create vite@latest
 # Concept clef du semestre
 
 FUI – _Fictional User Interface_ –
-- Une interface utilisateur qui n'existe pas dans le monde réel, mais qui est créée pour les besoins d'un projet ou d'une expérience.
+- Une interface utilisateur qui n'existe pas dans le monde réel, mais qui est créée pour les besoins d'un projet, d'une fiction ou d'une expérience.
 
 ![](assets/interface.gif)
