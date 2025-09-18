@@ -1,0 +1,8 @@
+package-lock.json
+node_modules
+.DS_Store
+Demos
+counter.js
+javascript.svg
+vite.svg
+dist
