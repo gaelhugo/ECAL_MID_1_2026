@@ -90,7 +90,12 @@ p5.js est une bibliothèque JavaScript conçue spécifiquement pour faciliter la
 npm create vite@latest
 ```
 
-## Lectures
+## Liens en vrac
+- [Notion récap](https://ecal-mid.notion.site/Code-bf7a891caf0b4311bdae91c0a5671b40#8c99a4bc17914f07ad9f4c37df7decb7)
+- [Digital artist visions](https://gaelhugo.github.io/Curated-Video-Collection/)
+- [Minimal art showcase](https://gaelhugo.github.io/art-showcase/)
+
+## Lectures au coin du feu
 
 1. [Design by Numbers](https://mitpress.mit.edu/9780262632447/design-by-numbers/), By John Maeda
 2. [The laws of Simplicity](https://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721), by John Maeda
