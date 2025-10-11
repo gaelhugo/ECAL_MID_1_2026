@@ -44,6 +44,13 @@ export default class App extends BaseApp {
 
   // Vérifie si un point donné (x,y) se trouve à l'intérieur du chemin SVG
   // en utilisant l'algorithme du nombre d'intersections pair/impair
+
+  //  |          o ---------- o
+  //  |        /            /
+  //  |      /     o------/--------
+  //  |    /   (x,y)    /
+  //  |  o ---------- o
+  //  |__________________________________
   isPointInPath(x, y) {
     if (this.paths.length === 0) return false;
 
