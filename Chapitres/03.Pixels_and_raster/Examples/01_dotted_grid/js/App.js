@@ -22,7 +22,7 @@ export default class App extends BaseApp {
 
   async init() {
     await this.loadImage("./image/andy.jpg");
-    // this.loadWebcam();
+    this.loadWebcam();
     // store the letters in an array
     // it must be an array of 100 letters "O"
     for (let i = 0; i < 80; i++) {
@@ -39,7 +39,9 @@ export default class App extends BaseApp {
 
   draw() {
     // this.ctx.drawImage(this.image, 0, 0, 800, 800);
-    this.ctx.drawImage(this.webcam.video, 0, 0, 800, 800);
+    if (!this.webcam) return;
+    // this.ctx.drawImage(this.webcam.video, 0, 0, 800, 800);
+    this.ctx.drawImage(this.image, 0, 0, 800, 800);
     const pixels = this.ctx.getImageData(0, 0, 800, 800).data;
 
     this.ctx.fillStyle = "black";
